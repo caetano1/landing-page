@@ -1,13 +1,18 @@
 # Landing Page Project
 
-## Table of Contents
+## Project
 
-* [Instructions](#instructions)
+This project is an assignment, part of Udacity's Front End Nanodegree program.
 
-## Instructions
+## Content
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+This project contains 3 files:
 
-To get started, open `js/app.js` and start building out the app's functionality
+1. `index.html` - the main file, containing the HTML that will be displayed
+2. `js/app.js` - the file containing the .js files that will (1) build the navigation bar, (2) localize the active sections and (3) apply smooth scrolling to each section.
+3. `css/styles.css` - the file containing the styling used in this project.
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+
+## Collaboration and rights
+
+Though this project is public, its content must not be copied without the right reference to its origins. Fill free to fork it as you wish, to open pull requests, and to collaborate!
